@@ -1,6 +1,7 @@
 # Tic-tac-toe-ReactDemo
 ## Introduction
- 
+
+A Tic-tac-toe game based on ReactJS from React Official tutorial.
 
 ## Initial configuration
 **React Documentación**: https://es.reactjs.org/
